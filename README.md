@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Ordering System
 
 A Python-based Book Ordering System implementing Object-Oriented Programming principles, inheritance, and a Tkinter-based GUI interface.
@@ -170,3 +171,6 @@ Both test modules provide console output to verify:
 - Inheritance relationships
 - Business logic
 - Cost calculations 
+=======
+# BookStore_GuiApp
+>>>>>>> 474b53b043eaa6cd1ad4082eb10cd5119173cdaa
